@@ -1,0 +1,18 @@
+{
+  "user": "BearelyKoalified",
+  "exclude": [
+    "tic-tac-toe"
+  ],
+  "overrides": {},
+  "extra": [
+    {
+      "slug": "habit-tracker",
+      "title": "Habit Tracker",
+      "url": "https://habit-tracker-bmad.vercel.app",
+      "description": "Next.js habit tracker built while learning the BMAD Method",
+      "host": "Vercel",
+      "note": "Sign-in required (Vercel deployment protection)",
+      "screenshot": false
+    }
+  ]
+}

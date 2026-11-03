@@ -1,0 +1,13 @@
+{
+  "name": "bearelykoalified-apps-hub",
+  "private": true,
+  "type": "module",
+  "description": "Central dashboard of every app BearelyKoalified hosts, rebuilt with fresh thumbnails by GitHub Actions.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npx --yes serve dist"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
